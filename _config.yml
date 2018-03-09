@@ -2,24 +2,24 @@ source: app
 destination: app/_site
 
 # Site settings
-title: Jekyll Polymer Theme
-subtitle: Google material design for static sites
+title: Geeked Out Solutions
+subtitle: A blog about datacenter automation, chatbots, AI and more.
 description: > # this means to ignore newlines until "baseurl:"
-  This is a material design theme for Polymer using Google's Polymer library. It's still an early draft, so be nice.
+  A blog about datacenter automation, chatbots, AI and other geeky related things.
 
-author: Julia Ebert
-author_website: http://juliaebert.com
-email: julia@juliaebert.com
+author: Brian Hopkins
+author_website: https://www.geekedoutsolutions.com
+email: geekedoutsolutions@gmail.com
 
-baseurl: "/jekyll-polymer"  # Subpath of your site, e.g. /blog. For deploying to github pages, this should match your repo name
+baseurl: "/"  # Subpath of your site, e.g. /blog. For deploying to github pages, this should match your repo name
                             # Currently `gulp serve:dist` does not work with a baseurl specified. For this purpose,
                             # temporarily comment out this parameter
-url: "http://juliaebert.com"  # Base hostname & protocol for your site
+url: "https://www.geekedoutsolutions.com"  # Base hostname & protocol for your site
 
 twitter_username: ''
-github_username:  jtebert
-disqus_shortname: juliaebert
-google_analytics: UA-54476418-1
+github_username:  geeked-out-solutions
+disqus_shortname: geeked-out-solutions
+google_analytics: UA-102614039-1
 
 # Pagination
 paginate: 5
